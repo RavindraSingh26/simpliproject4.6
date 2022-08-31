@@ -1,0 +1,3 @@
+hi this is Java stream class file, here we are using the basinc concept of Java..like stram, map, collect
+filter, reduce, sort, max, min, parralerstream.
+
